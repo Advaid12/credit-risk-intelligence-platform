@@ -1,0 +1,7 @@
+Random Forest Results
+
+Accuracy: 0.9193
+Precision: 0.5625
+Recall: 0.0036
+F1 Score: 0.0072
+ROC AUC: 0.7256
