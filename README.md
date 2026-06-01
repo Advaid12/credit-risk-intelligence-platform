@@ -242,30 +242,6 @@ data/
 
 # ⚙️ Installation
 
-Clone repository:
-
-```bash
-git clone <repository-url>
-
-cd credit-risk-intelligence-platform
-```
-
-Create virtual environment:
-
-```bash
-python3 -m venv venv
-
-source venv/bin/activate
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
 # ▶️ Running the Project
 
 ## Generate Database
