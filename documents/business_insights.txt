@@ -1,0 +1,9 @@
+1. Most applicants do not default, indicating an imbalanced dataset.
+
+2. Several columns contain a large number of missing values and require preprocessing.
+
+3. Credit amount varies significantly across applicants.
+
+4. Applicant income distribution is highly skewed.
+
+5. Customer demographics such as education, occupation, and family status may influence default risk.
